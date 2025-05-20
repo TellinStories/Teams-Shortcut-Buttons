@@ -77,7 +77,7 @@ while True:
 
     if button3.value is False:  # Button pressed (active low)
         led3.value = not led3.value  # This toggles the LED on / off
-        keyboard.press(Keycode.CONTROL, Keycode.SHIFT, Keycode.M) # Mimics pressing CTRL+SHIFT+O
+        keyboard.press(Keycode.CONTROL, Keycode.SHIFT, Keycode.M) # Mimics pressing CTRL+SHIFT+M
         print("Mute / Unmute button pressed")
         time.sleep(DEBOUNCE_TIME)  # Debounce
         keyboard.release_all()  # Release all keys
