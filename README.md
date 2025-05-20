@@ -14,5 +14,6 @@ The programme is written in Circuit Python and requires the Adafruit HID Library
 You need to copy the library files from the the Adafruit HID Library to your RP2040 / Raspberry Pi Pico library folder and then copy the code.py file from this GitHub.
 
 Full instructions are in the Teams Buttins Instructions PDF file.
+The 3D printing files can be found here: https://makerworld.com/en/models/1436571-teams-shortcut-buttons#profileId-1494585
 
 I took inspiration from this project: https://github.com/ttan/Mute-o-Matic-V2 - thank you to the author.
