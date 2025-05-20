@@ -1,6 +1,8 @@
 I spend a lot of my work day in Teams meetings and frequently need to mute / unmute my microphone, turn my camera on and off, or raise or lower my hand.  
 If using my mouse I invariably can’t find the right icon to click fast enough and I never remember the right keyboard shortcuts. 
 So I built a  simple device so that I can press one big fat arcade button for each of those actions.
+![IMG_7282](https://github.com/user-attachments/assets/e70f9911-f114-4600-92f9-e8fb5044c0d4)
+
 
 The device is simple – three arcade buttons which are connected to an RP2040 Zero microcontroller.  
 I chose the RP2040 because it is cheap, very small and I am already used to using Raspberry Pi Picos (which would also work well); other microcontrollers may also be suitable but I am not experienced in using them.
